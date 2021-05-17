@@ -1,0 +1,13 @@
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.exe
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.deps.json
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.runtimeconfig.json
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.runtimeconfig.dev.json
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.dll
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\bin\Debug\netcoreapp3.1\Day13_collection_demo.pdb
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.csprojAssemblyReference.cache
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.AssemblyInfoInputs.cache
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.AssemblyInfo.cs
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.dll
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.pdb
+C:\Users\Dell\DotNetProjects\Day13_collection_demo\Day13_collection_demo\obj\Debug\netcoreapp3.1\Day13_collection_demo.genruntimeconfig.cache
